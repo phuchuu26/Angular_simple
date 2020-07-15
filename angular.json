@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CMS"
+    }
+  },
+  "defaultProject": "CMS",
+  "cli": {
+    "analytics": false
+  }
 }
